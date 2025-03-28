@@ -11,6 +11,7 @@ public class Test3Application {
 		int y = 200;
 		double z = 10.3;
 		boolean isPresent = false;
+		int[] numbers = {1, 2, 3, 4, 5};
 		SpringApplication.run(Test3Application.class, args);
 	}
 
