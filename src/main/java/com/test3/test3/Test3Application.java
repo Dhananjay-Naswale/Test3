@@ -5,11 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test3Application {
-	gvnbhmgm
-	hjhjhj
-	dhananjay 
-	hjsdhjsdj
 	public static void main(String[] args) {
+		Strign name = "mike";
+		int x = 10;
+		boolean isPresent = false;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
